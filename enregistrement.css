@@ -1,0 +1,36 @@
+
+
+form{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    align-items:center;
+    border: 4px black solid;
+    padding: 10px;
+ }
+ 
+ 
+ h1 {
+     color:blue;
+     font-weight: 900;
+     text-align: center;
+ 
+ }
+ 
+ body{
+     display: grid;
+     justify-content: center;
+     
+ }
+ 
+ input {
+     margin-bottom: 10px;
+     margin-top: 5px;
+ }
+ button {
+     margin-bottom: 10px;
+     margin-top: 10px;
+ }
+    
+ 
+     
+ 

@@ -1,0 +1,12 @@
+.logo{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    display: flex;
+}
+.research{
+    height: 100x;
+    width: 2000px;
+    background-color: palevioletred;
+}
+
